@@ -1,7 +1,8 @@
 namespace API.Data
 {
-    public class DataContext: DbContext
+    public class DataContext : DbContext
     {
+        
         
     }
 }
