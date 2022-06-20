@@ -4539,11 +4539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\demo\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\demo\\DateApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\demo\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\demo\\DateApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-      "outputPath": "C:\\demo\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\demo\\DateApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config"
